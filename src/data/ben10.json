@@ -1,0 +1,193 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "slug": "classic",
+      "title": "Ben 10 Classic",
+      "cover": "/6337755.jpg",
+      "description": "The original Ben 10 series where a young hero discovers the Omnitrix.",
+      "seasons": [
+        {
+          "id": 1,
+          "number": 1,
+          "title": "Season 1",
+          "cover": "/6337746.jpg",
+          "episodes": [
+            { "id": 1, "title": "And Then There Were 10", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "Washington B.C.", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "The Krakken", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Permanent Retirement", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "Hunted", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "Tourist Trap", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "Kevin 11", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "The Alliance", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "Last Laugh", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "Locked Room", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "title": "Season 2",
+          "cover": "/5731347.jpg",
+          "episodes": [
+            { "id": 1, "title": "Truth", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "The Big Tick", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "Framed", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Gwen 10", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "Camp Fear", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "Ultimate Weapon", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "Of Predators and Prey: Part 1", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "Of Predators and Prey: Part 2", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "In Bulk", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "Secrets", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "title": "Season 3",
+          "cover": "/6337743.jpg",
+          "episodes": [
+            { "id": 1, "title": "Benwolf", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "Dr. Animo and the Mutant Ray", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "Bad Boy", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Ready to Rumble", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "The Return", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "The Secret of Chromastone", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "Don't Drink the Water", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "Pier Pressure", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "What are Little Girls Made Of?", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "The Enemy Within", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "slug": "alien-force",
+      "title": "Ben 10: Alien Force",
+      "cover": "/983769.jpg",
+      "description": "Ben teams up with Gwen and Kevin in a darker adventure.",
+      "seasons": [
+        {
+          "id": 1,
+          "number": 1,
+          "title": "Season 1",
+          "cover": "/5731347.jpg",
+          "episodes": [
+            { "id": 1, "title": "Ben 10 Returns: Part 1", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "Ben 10 Returns: Part 2", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "Everybody Talks About the Weather", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Kevin's Big Score", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "All That Glitters", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "Max Out", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "Pier Pressure", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "What Are Little Girls Made Of?", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "The Gauntlet", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "Paradox", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "title": "Season 2",
+          "cover": "/6337743.jpg",
+          "episodes": [
+            { "id": 1, "title": "X = Ben + 2", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "Darkstar Rising", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "Alone Together", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Good Copy, Bad Copy", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "Save the Last Dance", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "Undercover", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "Pet Project", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "Grounded", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "Voided", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "Inside Man", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "title": "Season 3",
+          "cover": "/5731347.jpg",
+          "episodes": [
+            { "id": 1, "title": "Birds of a Feather", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "War of the Worlds: Part 1", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "War of the Worlds: Part 2", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Vengeance of Vilgax: Part 1", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "Vengeance of Vilgax: Part 2", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "Inferno", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "Fool's Gold", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "Simple", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "Vreedle, Vreedle", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "Singlehanded", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "slug": "ultimate-alien",
+      "title": "Ben 10: Ultimate Alien",
+      "cover": "../../public/3110279 (1).jpg",
+      "description": "Ben unlocks the ultimate forms of his aliens.",
+      "seasons": [
+        {
+          "id": 1,
+          "number": 1,
+          "title": "Season 1",
+          "cover": "../../public/5731347.jpg",
+          "episodes": [
+            { "id": 1, "title": "Fame", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "Video Games", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "Hero Time", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Ultimate Aggregor", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "Hit 'Em Where They Live", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "Unlike Father, Unlike Son", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "Andreas' Fault", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "Fused", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "Hero Time", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "Ultimate Aggregor", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "title": "Season 2",
+          "cover": "../../public/6337746.jpg",
+          "episodes": [
+            { "id": 1, "title": "Escape from Aggregor", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "Too Hot to Handle", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "Andreas' Fault", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Deep", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "Reflected Glory", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "Basic Training", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "The Enemy Within", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "The Widening Gyre", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "The Final Battle: Part 1", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "The Final Battle: Part 2", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        },
+        {
+          "id": 3,
+          "number": 3,
+          "title": "Season 3",
+          "cover": "../../public/5731347.jpg",
+          "episodes": [
+            { "id": 1, "title": "The Purge", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 2, "title": "Couples Retreat", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 3, "title": "The Big Story", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 4, "title": "Girl Trouble", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 5, "title": "Revenge of the Swarm", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 6, "title": "The Ultimate Sacrifice", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 7, "title": "The Mother of All Vreedles", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 8, "title": "A Knight to Remember", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 9, "title": "The Perfect Girlfriend", "youtubeId": "dQw4w9WgXcQ" },
+            { "id": 10, "title": "The Forge of Creation", "youtubeId": "dQw4w9WgXcQ" }
+          ]
+        }
+      ]
+    }
+  ]
+}
