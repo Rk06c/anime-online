@@ -130,14 +130,14 @@
       "id": 3,
       "slug": "ultimate-alien",
       "title": "Ben 10: Ultimate Alien",
-      "cover": "../../public/3110279 (1).jpg",
+      "cover": "/3110279 (1).jpg",
       "description": "Ben unlocks the ultimate forms of his aliens.",
       "seasons": [
         {
           "id": 1,
           "number": 1,
           "title": "Season 1",
-          "cover": "../../public/5731347.jpg",
+          "cover": "/5731347.jpg",
           "episodes": [
             { "id": 1, "title": "Fame", "youtubeId": "dQw4w9WgXcQ" },
             { "id": 2, "title": "Video Games", "youtubeId": "dQw4w9WgXcQ" },
@@ -155,7 +155,7 @@
           "id": 2,
           "number": 2,
           "title": "Season 2",
-          "cover": "../../public/6337746.jpg",
+          "cover": "/6337746.jpg",
           "episodes": [
             { "id": 1, "title": "Escape from Aggregor", "youtubeId": "dQw4w9WgXcQ" },
             { "id": 2, "title": "Too Hot to Handle", "youtubeId": "dQw4w9WgXcQ" },
@@ -173,7 +173,7 @@
           "id": 3,
           "number": 3,
           "title": "Season 3",
-          "cover": "../../public/5731347.jpg",
+          "cover": "/5731347.jpg",
           "episodes": [
             { "id": 1, "title": "The Purge", "youtubeId": "dQw4w9WgXcQ" },
             { "id": 2, "title": "Couples Retreat", "youtubeId": "dQw4w9WgXcQ" },
