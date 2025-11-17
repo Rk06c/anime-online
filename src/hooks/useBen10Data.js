@@ -8,3 +8,4 @@ export const useBen10Data = () => {
     staleTime: Infinity,
   });
 };
+

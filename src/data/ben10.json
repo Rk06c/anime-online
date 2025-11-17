@@ -13,16 +13,16 @@
           "title": "Season 1",
           "cover": "/6337746.jpg",
           "episodes": [
-            { "id": 1, "title": "And Then There Were 10", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "Washington B.C.", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "The Krakken", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Permanent Retirement", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "Hunted", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "Tourist Trap", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "Kevin 11", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "The Alliance", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "Last Laugh", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "Locked Room", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "And Then There Were 10", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "/6337746.jpg" },
+            { "id": 2, "title": "Washington B.C.", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "The Krakken", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Permanent Retirement", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "Hunted", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "Tourist Trap", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "Kevin 11", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "The Alliance", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "Last Laugh", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "Locked Room", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         },
         {
@@ -31,16 +31,16 @@
           "title": "Season 2",
           "cover": "/5731347.jpg",
           "episodes": [
-            { "id": 1, "title": "Truth", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "The Big Tick", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "Framed", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Gwen 10", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "Camp Fear", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "Ultimate Weapon", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "Of Predators and Prey: Part 1", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "Of Predators and Prey: Part 2", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "In Bulk", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "Secrets", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "Truth", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+1" },
+            { "id": 2, "title": "The Big Tick", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "Framed", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Gwen 10", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "Camp Fear", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "Ultimate Weapon", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "Of Predators and Prey: Part 1", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "Of Predators and Prey: Part 2", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "In Bulk", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "Secrets", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         },
         {
@@ -49,16 +49,16 @@
           "title": "Season 3",
           "cover": "/6337743.jpg",
           "episodes": [
-            { "id": 1, "title": "Benwolf", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "Dr. Animo and the Mutant Ray", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "Bad Boy", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Ready to Rumble", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "The Return", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "The Secret of Chromastone", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "Don't Drink the Water", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "Pier Pressure", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "What are Little Girls Made Of?", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "The Enemy Within", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "Benwolf", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+1" },
+            { "id": 2, "title": "Dr. Animo and the Mutant Ray", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "Bad Boy", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Ready to Rumble", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "The Return", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "The Secret of Chromastone", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "Don't Drink the Water", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "Pier Pressure", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "What are Little Girls Made Of?", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "The Enemy Within", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         }
       ]
@@ -76,16 +76,16 @@
           "title": "Season 1",
           "cover": "/5731347.jpg",
           "episodes": [
-            { "id": 1, "title": "Ben 10 Returns: Part 1", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "Ben 10 Returns: Part 2", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "Everybody Talks About the Weather", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Kevin's Big Score", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "All That Glitters", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "Max Out", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "Pier Pressure", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "What Are Little Girls Made Of?", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "The Gauntlet", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "Paradox", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "Ben 10 Returns: Part 1", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "./OIP.webp" },
+            { "id": 2, "title": "Ben 10 Returns: Part 2", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "Everybody Talks About the Weather", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Kevin's Big Score", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "All That Glitters", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "Max Out", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "Pier Pressure", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "What Are Little Girls Made Of?", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "The Gauntlet", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "Paradox", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         },
         {
@@ -94,16 +94,16 @@
           "title": "Season 2",
           "cover": "/6337743.jpg",
           "episodes": [
-            { "id": 1, "title": "X = Ben + 2", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "Darkstar Rising", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "Alone Together", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Good Copy, Bad Copy", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "Save the Last Dance", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "Undercover", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "Pet Project", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "Grounded", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "Voided", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "Inside Man", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "X = Ben + 2", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+1" },
+            { "id": 2, "title": "Darkstar Rising", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "Alone Together", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Good Copy, Bad Copy", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "Save the Last Dance", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "Undercover", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "Pet Project", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "Grounded", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "Voided", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "Inside Man", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         },
         {
@@ -112,16 +112,16 @@
           "title": "Season 3",
           "cover": "/5731347.jpg",
           "episodes": [
-            { "id": 1, "title": "Birds of a Feather", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "War of the Worlds: Part 1", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "War of the Worlds: Part 2", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Vengeance of Vilgax: Part 1", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "Vengeance of Vilgax: Part 2", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "Inferno", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "Fool's Gold", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "Simple", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "Vreedle, Vreedle", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "Singlehanded", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "Birds of a Feather", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+1" },
+            { "id": 2, "title": "War of the Worlds: Part 1", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "War of the Worlds: Part 2", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Vengeance of Vilgax: Part 1", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "Vengeance of Vilgax: Part 2", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "Inferno", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "Fool's Gold", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "Simple", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "Vreedle, Vreedle", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "Singlehanded", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         }
       ]
@@ -139,16 +139,16 @@
           "title": "Season 1",
           "cover": "/5731347.jpg",
           "episodes": [
-            { "id": 1, "title": "Fame", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "Video Games", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "Hero Time", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Ultimate Aggregor", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "Hit 'Em Where They Live", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "Unlike Father, Unlike Son", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "Andreas' Fault", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "Fused", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "Hero Time", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "Ultimate Aggregor", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "Fame", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "/6337749.jpg" },
+            { "id": 2, "title": "Video Games", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "Hero Time", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Ultimate Aggregor", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "Hit 'Em Where They Live", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "Unlike Father, Unlike Son", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "Andreas' Fault", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "Fused", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "Hero Time", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "Ultimate Aggregor", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         },
         {
@@ -157,16 +157,16 @@
           "title": "Season 2",
           "cover": "/6337746.jpg",
           "episodes": [
-            { "id": 1, "title": "Escape from Aggregor", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "Too Hot to Handle", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "Andreas' Fault", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Deep", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "Reflected Glory", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "Basic Training", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "The Enemy Within", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "The Widening Gyre", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "The Final Battle: Part 1", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "The Final Battle: Part 2", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "Escape from Aggregor", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+1" },
+            { "id": 2, "title": "Too Hot to Handle", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "Andreas' Fault", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Deep", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "Reflected Glory", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "Basic Training", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "The Enemy Within", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "The Widening Gyre", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "The Final Battle: Part 1", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "The Final Battle: Part 2", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         },
         {
@@ -175,18 +175,123 @@
           "title": "Season 3",
           "cover": "/5731347.jpg",
           "episodes": [
-            { "id": 1, "title": "The Purge", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 2, "title": "Couples Retreat", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 3, "title": "The Big Story", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 4, "title": "Girl Trouble", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 5, "title": "Revenge of the Swarm", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 6, "title": "The Ultimate Sacrifice", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 7, "title": "The Mother of All Vreedles", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 8, "title": "A Knight to Remember", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 9, "title": "The Perfect Girlfriend", "youtubeId": "dQw4w9WgXcQ" },
-            { "id": 10, "title": "The Forge of Creation", "youtubeId": "dQw4w9WgXcQ" }
+            { "id": 1, "title": "The Purge", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+1" },
+            { "id": 2, "title": "Couples Retreat", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+2" },
+            { "id": 3, "title": "The Big Story", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+3" },
+            { "id": 4, "title": "Girl Trouble", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+4" },
+            { "id": 5, "title": "Revenge of the Swarm", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+5" },
+            { "id": 6, "title": "The Ultimate Sacrifice", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+6" },
+            { "id": 7, "title": "The Mother of All Vreedles", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+7" },
+            { "id": 8, "title": "A Knight to Remember", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+8" },
+            { "id": 9, "title": "The Perfect Girlfriend", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+9" },
+            { "id": 10, "title": "The Forge of Creation", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/ff6b6b/ffffff?text=Ben+10+Episode+10" }
           ]
         }
+      ]
+    },
+    {
+      "id": 4,
+      "slug": "dandadan",
+      "title": "Dandadan",
+      "cover": "/okarun-dandadan-3840x2160-23797.jpg",
+      "description": "Dandadan follows high schooler Momo Ayase, a tough girl who believes in ghosts but not aliens, and Ken \"Okarun\" Takakura, a wimpy boy who believes in aliens but not ghosts. After a chance meeting, they find themselves embroiled in supernatural chaos.",
+      "seasons": [
+        {
+          "id": 1,
+          "number": 1,
+          "title": "Season 1",
+          "cover": "/dandadan-season1.jpg",
+          "episodes": [
+            { "id": 1, "title": "That's How Love Starts, Ya Know!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763395514/dans1e1_wnhihs.mp4", "imageUrl": "/momo-ayase-5k-3840x2160-19443.jpg" },
+            { "id": 2, "title": "That's a Space Alien, Ain't It?!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E2" },
+            { "id": 3, "title": "It's a Granny vs. Granny Clash!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E3" },
+            { "id": 4, "title": "Kicking Turbo Granny's Ass", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E4" },
+            { "id": 5, "title": "Like, Where Are Your Balls?!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E5" },
+            { "id": 6, "title": "A Dangerous Woman Arrives", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E6" },
+            { "id": 7, "title": "To a Kinder World", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E7" },
+            { "id": 8, "title": "I've Got This Funny Feeling", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E8" },
+            { "id": 9, "title": "Merge! Serpo Dover Demon Nessie!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E9" },
+            { "id": 10, "title": "Have You Ever Seen a Cattle Mutilation?", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E10" },
+            { "id": 11, "title": "First Love", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E11" },
+            { "id": 12, "title": "Let's Go to the Cursed House", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E12" }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "title": "Season 2",
+          "cover": "/dandadan-season2.jpg",
+          "episodes": [
+            { "id": 1, "title": "Like, This Is the Legend of the Giant Snake", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E1" },
+            { "id": 2, "title": "The Evil Eye", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E2" },
+            { "id": 3, "title": "You Won't Get Away with This!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E3" },
+            { "id": 4, "title": "That's, Like, Way Deadly", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E4" },
+            { "id": 5, "title": "We Can All Stay There Together!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E5" },
+            { "id": 6, "title": "We Became a Family", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E6" },
+            { "id": 7, "title": "Feeling Kinda Gloomy", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E7" },
+            { "id": 8, "title": "You Can Do It, Okarun!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E8" },
+            { "id": 9, "title": "I Want to Rebuild the House", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E9" },
+            { "id": 10, "title": "The Secret Art of Being Attractive", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E10" },
+            { "id": 11, "title": "Hey, It's a Kaiju", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E11" },
+            { "id": 12, "title": "Clash! Space Kaiju vs. Giant Robot!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E12" }
+          ]
+        }
+      ]
+    },{
+      "id": 5,
+      "slug": "star-wars-the-clone-wars",
+      "title": "Star Wars: The Clone Wars",
+      "cover": "/clone-wars-wa3v2q68i14ps1cd.jpg",
+      "description": "An epic saga of the Star Wars universe, focusing on the conflict between the Galactic Republic and the Separatists.",
+      "seasons": [
+        {
+      "id": 1,
+      "number": 1,
+      "title": "Season 1",
+      "cover": "/clone-wars-wa3v2q68i14ps1cd.jpg",
+      "episodes": [
+        { "id": 1, "title": "Ambush", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/sw-tcw-s1e1_yxqfex.mp4", "imageUrl": "/star-wars-the-clone-wars-3840x2160-24025.jpg" },
+        { "id": 2, "title": "Rising Malevolence", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E2" },
+        { "id": 3, "title": "Shadow of Malevolence", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E3" },
+        { "id": 4, "title": "Destroy Malevolence", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E4" },
+        { "id": 5, "title": "Rookies", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E5" },
+        { "id": 6, "title": "Downfall of a Droid", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E6" },
+        { "id": 7, "title": "Duel of the Droids", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E7" },
+        { "id": 8, "title": "Bombad Jedi", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E8" },
+        { "id": 9, "title": "Cloak of Darkness", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E9" },
+        { "id": 10, "title": "The Lair of General Grievous", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/1a535c/ffffff?text=SW+TCW+S1E10" }
+
+      ]
+    }
+    
+      ]
+    },
+    {
+      "id": 6,
+      "slug": "avatar-the-last-airbender",
+      "title": "Avatar: The Last Airbender",
+      "cover": "/Avatar's+Legendary+Journey.webp",
+      "description": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+      "seasons": [
+        {
+      "id": 1,
+      "number": 1,
+      "title": "Season 1",
+      "cover": "/avatar-the-last-airbender-season1.jpg",  
+      "episodes": [
+        { "id": 1, "title": "The Boy"},
+        { "id": 2, "title": "The Avatar Returns"},
+        { "id": 3, "title": "The Southern Air Temple"},
+        { "id": 4, "title": "The Warriors of Kyoshi"},
+        { "id": 5, "title": "The King of Omashu"},
+        { "id": 6, "title": "Imprisoned"},
+        { "id": 7, "title": "Winter Solstice Part 1: The Spirit World"},
+        { "id": 8, "title": "Winter Solstice Part 2: Avatar Roku"},
+        { "id": 9, "title": "The Waterbending Scroll"},
+        { "id": 10, "title": "Jet"}
+      ]
+    }
+    
       ]
     }
   ]

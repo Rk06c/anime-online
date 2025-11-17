@@ -8,15 +8,47 @@ import SeriesCard from './components/SeriesCard';
 import EpisodeCard from './components/EpisodeCard';
 import EpisodePlayer from './components/EpisodePlayer';
 import { useBen10Data } from './hooks/useBen10Data';
-import './index.css';
 
 const queryClient = new QueryClient();
+
+const appStyles = {
+  minHeight: '100vh',
+  backgroundColor: '#0f172a',
+  color: 'white',
+  fontFamily: 'Arial, sans-serif'
+};
+
+const mainContentStyles = {
+  padding: '20px',
+  maxWidth: '1200px',
+  margin: '0 auto'
+};
+
+const loadingStyles = {
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems: 'center',
+  height: '50vh',
+  fontSize: '1.5rem'
+};
+
+const noResultsStyles = {
+  textAlign: 'center',
+  padding: '40px',
+  fontSize: '1.2rem'
+};
+
+const gridStyles = {
+  display: 'grid',
+  gap: '20px',
+  gridTemplateColumns: 'repeat(auto-fill, minmax(250px, 1fr))'
+};
 
 function Home() {
   const { data: ben10Data } = useBen10Data();
   const { searchTerm } = useSearch();
   
-  if (!ben10Data) return <div className="loading">Loading...</div>;
+  if (!ben10Data) return <div style={loadingStyles}>Loading...</div>;
 
   if (searchTerm) {
     let allEpisodes = [];
@@ -32,9 +64,9 @@ function Home() {
 
     if (allEpisodes.length === 0) {
       return (
-        <div className="main-content">
-          <h2>Search Results</h2>
-          <div className="no-results">
+        <div style={mainContentStyles}>
+          <h2 style={{ marginBottom: '20px' }}>Search Results</h2>
+          <div style={noResultsStyles}>
             <h3>No episodes found matching "{searchTerm}"</h3>
           </div>
         </div>
@@ -42,9 +74,9 @@ function Home() {
     }
 
     return (
-      <div className="main-content">
-        <h2>Search Results for "{searchTerm}"</h2>
-        <div className="episodes-grid">
+      <div style={mainContentStyles}>
+        <h2 style={{ marginBottom: '20px' }}>Search Results for "{searchTerm}"</h2>
+        <div style={gridStyles}>
           {allEpisodes.map((episode) => (
             <EpisodeCard
               key={`${episode.seriesSlug}-${episode.seasonNumber}-${episode.id}`}
@@ -59,9 +91,9 @@ function Home() {
   }
 
   return (
-    <div className="main-content">
-      <h2>Ben 10 Series</h2>
-      <div className="series-grid">
+    <div style={mainContentStyles}>
+      <h2 style={{ marginBottom: '20px' }}>Ben 10 Series</h2>
+      <div style={gridStyles}>
         {ben10Data.series.map((series) => (
           <SeriesCard key={series.id} series={series} />
         ))}
@@ -75,10 +107,10 @@ function SeriesPage() {
   const { searchTerm } = useSearch();
   const { data: ben10Data } = useBen10Data();
 
-  if (!ben10Data) return <div className="loading">Loading...</div>;
+  if (!ben10Data) return <div style={loadingStyles}>Loading...</div>;
 
   const series = ben10Data.series.find((s) => s.slug === seriesSlug);
-  if (!series) return <div className="no-results"><h3>Series not found</h3></div>;
+  if (!series) return <div style={noResultsStyles}><h3>Series not found</h3></div>;
 
   if (searchTerm) {
     let seriesEpisodes = [];
@@ -92,9 +124,9 @@ function SeriesPage() {
 
     if (seriesEpisodes.length === 0) {
       return (
-        <div className="main-content">
-          <h2>Search Results in {series.title}</h2>
-          <div className="no-results">
+        <div style={mainContentStyles}>
+          <h2 style={{ marginBottom: '20px' }}>Search Results in {series.title}</h2>
+          <div style={noResultsStyles}>
             <h3>No episodes found matching "{searchTerm}"</h3>
           </div>
         </div>
@@ -102,9 +134,9 @@ function SeriesPage() {
     }
 
     return (
-      <div className="main-content">
-        <h2>Search Results in {series.title} for "{searchTerm}"</h2>
-        <div className="episodes-grid">
+      <div style={mainContentStyles}>
+        <h2 style={{ marginBottom: '20px' }}>Search Results in {series.title} for "{searchTerm}"</h2>
+        <div style={gridStyles}>
           {seriesEpisodes.map((episode) => (
             <EpisodeCard
               key={`${seriesSlug}-${episode.seasonNumber}-${episode.id}`}
@@ -119,15 +151,41 @@ function SeriesPage() {
   }
 
   return (
-    <div className="main-content">
-      <h2>{series.title}</h2>
-      <div className="seasons-grid">
+    <div style={mainContentStyles}>
+      <h2 style={{ marginBottom: '20px' }}>{series.title}</h2>
+      <div style={gridStyles}>
         {series.seasons.map((season) => (
-          <Link to={`/${seriesSlug}/${season.number}`} key={season.id} className="season-card">
-            <img src={season.cover} alt={season.title} className="card-image" />
-            <div className="card-content">
-              <h3 className="card-title">{season.title}</h3>
-              <p className="card-description">{season.episodes.length} Episodes</p>
+          <Link 
+            to={`/${seriesSlug}/${season.number}`} 
+            key={season.id} 
+            style={{ textDecoration: 'none', color: 'inherit' }}
+          >
+            <div style={{
+              backgroundColor: '#1e293b',
+              borderRadius: '10px',
+              overflow: 'hidden',
+              transition: 'transform 0.2s',
+              cursor: 'pointer',
+              ':hover': {
+                transform: 'scale(1.05)'
+              }
+            }}>
+              <div style={{
+                width: '100%',
+                height: '200px',
+                background: `linear-gradient(135deg, #0066ff, #00d4ff)`,
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                color: 'white',
+                fontSize: '1.2rem'
+              }}>
+                Season {season.number}
+              </div>
+              <div style={{ padding: '15px' }}>
+                <h3 style={{ margin: '0 0 10px 0' }}>{season.title}</h3>
+                <p style={{ margin: 0, color: '#94a3b8' }}>{season.episodes.length} Episodes</p>
+              </div>
             </div>
           </Link>
         ))}
@@ -141,12 +199,12 @@ function SeasonPage() {
   const { searchTerm } = useSearch();
   const { data: ben10Data } = useBen10Data();
 
-  if (!ben10Data) return <div className="loading">Loading...</div>;
+  if (!ben10Data) return <div style={loadingStyles}>Loading...</div>;
 
   const series = ben10Data.series.find((s) => s.slug === seriesSlug);
   const season = series?.seasons.find((s) => s.number === parseInt(seasonNumber));
   
-  if (!season) return <div className="no-results"><h3>Season not found</h3></div>;
+  if (!season) return <div style={noResultsStyles}><h3>Season not found</h3></div>;
 
   const filteredEpisodes = season.episodes.filter((ep) =>
     ep.title.toLowerCase().includes(searchTerm.toLowerCase())
@@ -158,9 +216,9 @@ function SeasonPage() {
 
   if (filteredEpisodes.length === 0 && searchTerm) {
     return (
-      <div className="main-content">
-        <h2>{headerTitle}</h2>
-        <div className="no-results">
+      <div style={mainContentStyles}>
+        <h2 style={{ marginBottom: '20px' }}>{headerTitle}</h2>
+        <div style={noResultsStyles}>
           <h3>No episodes found matching "{searchTerm}"</h3>
         </div>
       </div>
@@ -168,9 +226,9 @@ function SeasonPage() {
   }
 
   return (
-    <div className="main-content">
-      <h2>{headerTitle}</h2>
-      <div className="episodes-grid">
+    <div style={mainContentStyles}>
+      <h2 style={{ marginBottom: '20px' }}>{headerTitle}</h2>
+      <div style={gridStyles}>
         {filteredEpisodes.map((episode) => (
           <EpisodeCard
             key={episode.id}
@@ -188,13 +246,15 @@ function AppContent() {
   return (
     <Router>
       <SearchProvider>
-        <Header />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/:seriesSlug" element={<SeriesPage />} />
-          <Route path="/:seriesSlug/:seasonNumber" element={<SeasonPage />} />
-          <Route path="/:seriesSlug/:seasonNumber/:episodeNumber" element={<EpisodePlayer />} />
-        </Routes>
+        <div style={appStyles}>
+          <Header />
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/:seriesSlug" element={<SeriesPage />} />
+            <Route path="/:seriesSlug/:seasonNumber" element={<SeasonPage />} />
+            <Route path="/:seriesSlug/:seasonNumber/:episodeNumber" element={<EpisodePlayer />} />
+          </Routes>
+        </div>
       </SearchProvider>
     </Router>
   );

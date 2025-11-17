@@ -1,0 +1,53 @@
+{
+  "series": [
+    {
+      "id": 1,
+      "slug": "dandadan",
+      "title": "Dandadan",
+      "cover": "/dandadan-cover.jpg",
+      "description": "Dandadan follows high schooler Momo Ayase, a tough girl who believes in ghosts but not aliens, and Ken \"Okarun\" Takakura, a wimpy boy who believes in aliens but not ghosts. After a chance meeting, they find themselves embroiled in supernatural chaos.",
+      "seasons": [
+        {
+          "id": 1,
+          "number": 1,
+          "title": "Season 1",
+          "cover": "/dandadan-season1.jpg",
+          "episodes": [
+            { "id": 1, "title": "That's How Love Starts, Ya Know!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E1" },
+            { "id": 2, "title": "That's a Space Alien, Ain't It?!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E2" },
+            { "id": 3, "title": "It's a Granny vs. Granny Clash!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E3" },
+            { "id": 4, "title": "Kicking Turbo Granny's Ass", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E4" },
+            { "id": 5, "title": "Like, Where Are Your Balls?!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E5" },
+            { "id": 6, "title": "A Dangerous Woman Arrives", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E6" },
+            { "id": 7, "title": "To a Kinder World", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E7" },
+            { "id": 8, "title": "I've Got This Funny Feeling", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E8" },
+            { "id": 9, "title": "Merge! Serpo Dover Demon Nessie!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E9" },
+            { "id": 10, "title": "Have You Ever Seen a Cattle Mutilation?", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E10" },
+            { "id": 11, "title": "First Love", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E11" },
+            { "id": 12, "title": "Let's Go to the Cursed House", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S1E12" }
+          ]
+        },
+        {
+          "id": 2,
+          "number": 2,
+          "title": "Season 2",
+          "cover": "/dandadan-season2.jpg",
+          "episodes": [
+            { "id": 1, "title": "Like, This Is the Legend of the Giant Snake", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "/momo-ayase-5k-3840x2160-19443.jpg" },
+            { "id": 2, "title": "The Evil Eye", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "../../public/momo-dandadan-3840x2160-19453.jpg" },
+            { "id": 3, "title": "You Won't Get Away with This!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E3" },
+            { "id": 4, "title": "That's, Like, Way Deadly", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E4" },
+            { "id": 5, "title": "We Can All Stay There Together!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E5" },
+            { "id": 6, "title": "We Became a Family", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "" },
+            { "id": 7, "title": "Feeling Kinda Gloomy", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E7" },
+            { "id": 8, "title": "You Can Do It, Okarun!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "" },
+            { "id": 9, "title": "I Want to Rebuild the House", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E9" },
+            { "id": 10, "title": "The Secret Art of Being Attractive", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E10" },
+            { "id": 11, "title": "Hey, It's a Kaiju", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E11" },
+            { "id": 12, "title": "Clash! Space Kaiju vs. Giant Robot!", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Dandadan+S2E12" }
+          ]
+        }
+      ]
+    }
+  ]
+}
