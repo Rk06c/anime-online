@@ -293,6 +293,60 @@
     }
     
       ]
+    },{
+      "id": 7,
+      "slug": "rick-and-morty",
+      "title": "Scooby-Doo, Where Are You!",
+      "cover": "/scooby do.jpg",
+      "description": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+      "seasons": [
+        {
+      "id": 1,
+      "number": 1,
+      "title": "Season 1",
+      "cover": "/rick-and-morty-season1.jpg",  
+      "episodes": [
+        { "id": 1, "title": "Pilot"},
+        { "id": 2, "title": "Lawnmower Dog"},
+        { "id": 3, "title": "Anatomy Park"},
+        { "id": 4, "title": "M. Night Shaym-Aliens!"},
+        { "id": 5, "title": "Meeseeks and Destroy"},
+        { "id": 6, "title": "Rick Potion #9"},
+        { "id": 7, "title": "Raising Gazorpazorp"},
+        { "id": 8, "title": "Rixty Minutes"},
+        { "id": 9, "title": "Something Ricked This Way Comes"},
+        { "id": 10, "title": "Close Rick-counters of the Rick Kind"}
+      ]
+    }
+    
+      ] 
+    },{
+      "id": 8,
+      "slug": "courage-the-cowardly-dog",
+      "title": "courage the cowardly dog",
+      "cover": "/courege.png",
+      "description": "The satirical adventures of a working-class family in the misfit city of Springfield.",
+      "seasons": [
+        {
+      "id": 1,
+      "number": 1,
+      "title": "Season 1",
+      "cover": "/the-simpsons-season1.jpg",  
+      "episodes": [
+        { "id": 1, "title": "Simpsons Roasting on an Open Fire"},
+        { "id": 2, "title": "Bart the Genius"},
+        { "id": 3, "title": "Homer's Odyssey"},
+        { "id": 4, "title": "There's No Disgrace Like Home"},
+        { "id": 5, "title": "Bart the General"},
+        { "id": 6, "title": "Moaning Lisa"},
+        { "id": 7, "title": "The Call of the Simpsons"},
+        { "id": 8, "title": "The Telltale Head"},
+        { "id": 9, "title": "Life on the Fast Lane"},
+        { "id": 10, "title": "Homer's Night Out"}
+      ]
+    }
+    
+      ]
     }
   ]
 }

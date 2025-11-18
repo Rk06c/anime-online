@@ -1,0 +1,24 @@
+{
+    "comingUp": [
+        {
+        "id": "1",
+        "title": "The Angry Birds summer madness",
+        "duration": "12:34",
+        "thumbnail": "/thumb/angry.jpg"
+        },
+        {
+        "id": "2",
+        "title": "Dragon booster",
+        "duration": "08:45",
+        "thumbnail": "/thumb/dragon.jpg"
+        },
+        {
+        "id": "3",
+        "title": "jonny test",
+        "duration": "15:20",
+        "thumbnail": "/thumb/jonny.jpg"
+        },
+        {
+        }
+    ]
+}

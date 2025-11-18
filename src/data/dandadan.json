@@ -48,6 +48,24 @@
           ]
         }
       ]
+    },{
+      "id": 2,
+      "slug": "another-series",
+      "title": "Another Series",
+      "cover": "/another-series-cover.jpg",
+      "description": "Description for another series.",
+      "seasons": [
+        {
+          "id": 1,
+          "number": 1,
+          "title": "Season 1",
+          "cover": "/another-series-season1.jpg",
+          "episodes": [
+            { "id": 1, "title": "Episode 1", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Another+Series+S1E1" },
+            { "id": 2, "title": "Episode 2", "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4", "imageUrl": "https://via.placeholder.com/320x180/4ecdc4/ffffff?text=Another+Series+S1E2" }
+          ]
+        }
+      ]
     }
   ]
 }
