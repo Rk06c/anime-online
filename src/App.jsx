@@ -9,7 +9,7 @@ import EpisodeCard from './components/EpisodeCard';
 import EpisodePlayer from './components/EpisodePlayer';
 import { useBen10Data, useComingSoonData  , useMovie1Data} from './hooks/useBen10Data';
 import NetflixSlider from './components/NetflixSlider';
-import MoviePlayer12 from './components/Movieplayer12';
+import MoviePlayer12 from './components/MoviePlayer12';
 import Footer from './components/Footer';
 
 
@@ -352,88 +352,7 @@ function Home() {
 
 
 
-// Add a MoviePlayer component (similar to EpisodePlayer but for movies)
-function MoviePlayer() {
-  const { movieSlug } = useParams();
-  const { data: movieData } = useMovie1Data();
 
-  if (!movieData) return <div style={loadingStyles}>Loading movie...</div>;
-
-  const movie = movieData.movies.find(m => m.slug === movieSlug);
-  
-  if (!movie) return (
-    <div style={noResultsStyles}>
-      <h3>Movie not found</h3>
-      <Link to="/" style={{ color: '#00d4ff', textDecoration: 'none' }}>
-        ← Back to Home
-      </Link>
-    </div>
-  );
-
-  return (
-    <div style={mainContentStyles}>
-      <div style={{ marginBottom: '20px' }}>
-        <Link to="/" style={{ color: '#00d4ff', textDecoration: 'none', marginBottom: '20px', display: 'inline-block' }}>
-          ← Back to Home
-        </Link>
-        <h1 style={{ margin: '10px 0', color: 'white' }}>{movie.title}</h1>
-        <p style={{ color: '#94a3b8', marginBottom: '20px' }}>{movie.description}</p>
-      </div>
-      
-      <div style={{
-        width: '100%',
-        maxWidth: '800px',
-        margin: '0 auto',
-        backgroundColor: '#000',
-        borderRadius: '8px',
-        overflow: 'hidden'
-      }}>
-        {/* You can implement your video player here */}
-        <div style={{
-          width: '100%',
-          height: '0',
-          paddingBottom: '56.25%', // 16:9 aspect ratio
-          position: 'relative',
-          backgroundColor: '#000'
-        }}>
-          <div style={{
-            position: 'absolute',
-            top: '0',
-            left: '0',
-            width: '100%',
-            height: '100%',
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'center',
-            color: 'white',
-            background: 'linear-gradient(135deg, #1e293b, #0f172a)'
-          }}>
-            <div style={{ textAlign: 'center' }}>
-              <div style={{
-                width: '80px',
-                height: '80px',
-                backgroundColor: 'rgba(0, 212, 255, 0.9)',
-                borderRadius: '50%',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
-                margin: '0 auto 20px'
-              }}>
-                <svg width="30" height="30" viewBox="0 0 24 24" fill="white">
-                  <path d="M8 5v14l11-7z"/>
-                </svg>
-              </div>
-              <p>Movie Player - {movie.title}</p>
-              <p style={{ fontSize: '14px', color: '#94a3b8', marginTop: '10px' }}>
-                Cloudinary URL: {movie.cloudinaryUrl}
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-}
 
 
 function SeriesPage() {
