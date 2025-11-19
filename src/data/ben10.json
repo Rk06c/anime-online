@@ -343,10 +343,45 @@
         { "id": 8, "title": "The Telltale Head"},
         { "id": 9, "title": "Life on the Fast Lane"},
         { "id": 10, "title": "Homer's Night Out"}
+        
+      ]
+    }
+    
+      ]
+    },{
+      "id": 9,
+      "slug": "stranger-things",
+      "title": "stranger things",
+      "cover": "/stranger.jpg",
+      "description": " The satirical adventures of a working-class family in the misfit city of Springfield.",
+      "seasons": [
+        {
+      "id": 1,
+      "number": 1,
+      "title": "Season 1",
+      "cover": "/stanger.jpg",  
+      "episodes": [
+         { "id": 1, "title": "Ambush", "Url": "https://dub.onestream.watch/stream/video/100914", "imageUrl": "/star-wars-the-clone-wars-3840x2160-24025.jpg" },
+        { "id": 2, "title": "Bart the Genius"},
+        { "id": 3, "title": "Homer's Odyssey"},
+        { "id": 4, "title": "There's No Disgrace Like Home"},
+        { "id": 5, "title": "Bart the General"},
+        { "id": 6, "title": "Moaning Lisa"},
+        { "id": 7, "title": "The Call of the Simpsons"},
+        { "id": 8, "title": "The Telltale Head"},
+        { "id": 9, "title": "Life on the Fast Lane"},
+        { "id": 10, "title": "Homer's Night Out"}
+        
       ]
     }
     
       ]
     }
+      
+
+    
   ]
 }
+
+
+

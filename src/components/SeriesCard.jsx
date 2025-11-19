@@ -3,7 +3,8 @@ import { Link } from 'react-router-dom';
 
 const SeriesCard = ({ series }) => {
   const cardStyles = {
-    backgroundColor: '#1e293b',
+    //backgroundColor: '#1e293b',
+    backgroundColor: '#080808',
     borderRadius: '10px',
     overflow: 'hidden',
     textDecoration: 'none',

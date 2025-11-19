@@ -1,0 +1,454 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "slug": "incredibles",
+      "title": "The Incredibles",
+      "cover": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+      "description": "A family of undercover superheroes, while trying to live a quiet suburban life, are forced into action to save the world.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763388819/videoplayback_krkcqm.mp4",
+      "imageUrl": "/incredibles-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x7zrmv8"
+    },
+    {
+      "id": 2,
+      "slug": "finding-nemo",
+      "title": "Finding Nemo",
+      "cover": "https://image.tmdb.org/t/p/w500/eHuGQ10FUzK1mdOY69wF5pGgEf5.jpg",
+      "description": "A clown fish named Marlin lives in the Great Barrier Reef with his son Nemo, who gets separated from his father.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/finding-nemo_movie_yxqfex.mp4",
+      "imageUrl": "/finding-nemo-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9lwiwa"
+    },
+    {
+      "id": 3,
+      "slug": "toy-story",
+      "title": "Toy Story",
+      "cover": "https://image.tmdb.org/t/p/w500/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+      "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/toy-story_movie_yxqfex.mp4",
+      "imageUrl": "/toy-story-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x88zsxa"
+    },
+    {
+      "id": 4,
+      "slug": "shrek",
+      "title": "Shrek",
+      "cover": "https://image.tmdb.org/t/p/w500/7vjaCdMw15FEbXyLQTVa04URsPm.jpg",
+      "description": "A grumpy ogre named Shrek must rescue a princess from a dragon to reclaim his swamp from fairy tale creatures.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/shrek_movie_yxqfex.mp4",
+      "imageUrl": "/shrek-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x91xp6s"
+    },
+    {
+      "id": 5,
+      "slug": "kung-fu-panda",
+      "title": "Kung Fu Panda",
+      "cover": "https://image.tmdb.org/t/p/w500/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg",
+      "description": "To everyone's surprise, including his own, Po, an overweight panda, is chosen to become the Dragon Warrior.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/kung-fu-panda_movie_yxqfex.mp4",
+      "imageUrl": "/kung-fu-panda-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x8ht13y"
+    },
+    {
+      "id": 6,
+      "slug": "how-to-train-your-dragon",
+      "title": "How to Train Your Dragon",
+      "cover": "https://image.tmdb.org/t/p/w500/ygGmAO60t8GyqUo9xYeYxSZAR3b.jpg",
+      "description": "A young Viking embarks on a quest to prove himself a true warrior by befriending a dragon.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/dragon_movie_yxqfex.mp4",
+      "imageUrl": "/dragon-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9pwfi4"
+    },
+    {
+      "id": 7,
+      "slug": "frozen",
+      "title": "Frozen",
+      "cover": "https://image.tmdb.org/t/p/w500/kgwjIb2JDHRhNk13lmSxiClFjVk.jpg",
+      "description": "A fearless princess sets off on a journey to save her kingdom by finding her estranged sister with magical powers.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/frozen_movie_yxqfex.mp4",
+      "imageUrl": "/frozen-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x7sx0ig"
+    },
+    {
+      "id": 8,
+      "slug": "coco",
+      "title": "Coco",
+      "cover": "https://image.tmdb.org/t/p/w500/eKi8dIrr8voobbaGzDpe8w0PVbC.jpg",
+      "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/coco_movie_yxqfex.mp4",
+      "imageUrl": "/coco-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9j9crq"
+    },
+    {
+      "id": 9,
+      "slug": "moana",
+      "title": "Moana",
+      "cover": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "description": "In ancient Polynesia, a chief's daughter sets sail to seek the stolen heart of Te Fiti to save her island.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/moana_movie_yxqfex.mp4",
+      "imageUrl": "/moana-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x6ojwwq"
+    },
+    {
+      "id": 10,
+      "slug": "big-hero-6",
+      "title": "Big Hero 6",
+      "cover": "https://image.tmdb.org/t/p/w500/2mxS4wUimwlLmI1xp6QW5NJWnJe.jpg",
+      "description": "A young robotics prodigy teams up with a robot to uncover the mystery behind his brother's death.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/big-hero_movie_yxqfex.mp4",
+      "imageUrl": "/big-hero-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9hsk0q"
+    },
+    {
+      "id": 11,
+      "slug": "zootopia",
+      "title": "Zootopia",
+      "cover": "https://image.tmdb.org/t/p/w500/hlK0e0wAQ3VLuJcsf07YPX5hAgG.jpg",
+      "description": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/zootopia_movie_yxqfex.mp4",
+      "imageUrl": "/zootopia-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9ppldc"
+    },
+    {
+      "id": 12,
+      "slug": "inside-out",
+      "title": "Inside Out",
+      "cover": "https://image.tmdb.org/t/p/w500/lRHE0vzf3oYJrhbsHXjIkF4Tl5A.jpg",
+      "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions—Joy, Fear, Anger, Disgust, and Sadness—conflict on how best to navigate a new city.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/inside-out_movie_yxqfex.mp4",
+      "imageUrl": "/inside-out-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9552pg"
+    },
+    {
+      "id": 13,
+      "slug": "ratatouille",
+      "title": "Ratatouille",
+      "cover": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "description": "A rat who dreams of becoming a French chef helps a young kitchen worker realize his culinary dreams.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/ratatouille_movie_yxqfex.mp4",
+      "imageUrl": "/ratatouille-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9fpljs"
+    },
+    {
+      "id": 14,
+      "slug": "walle",
+      "title": "WALL-E",
+      "cover": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQpQIPh.jpg",
+      "description": "In the distant future, a small waste-collecting robot with a boxy body and a soul unexpectedly embarks on a journey that will ultimately decide the fate of mankind.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/walle_movie_yxqfex.mp4",
+      "imageUrl": "/walle-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9tkbjw"
+    },
+    {
+      "id": 15,
+      "slug": "up",
+      "title": "Up",
+      "cover": "https://image.tmdb.org/t/p/w500/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg",
+      "description": "An elderly widower straps balloons to his house to float away on an adventure to South America, joined by a boy scout and a talking dog.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/up_movie_yxqfex.mp4",
+      "imageUrl": "/up-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/x9mylrc"
+    },
+    {
+      "id": 16,
+      "slug": "monsters-inc",
+      "title": "Monsters, Inc.",
+      "cover": "https://image.tmdb.org/t/p/w500/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "description": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/monsters-inc_movie_yxqfex.mp4",
+      "imageUrl": "/monsters-inc-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xabc123"
+    },
+    {
+      "id": 17,
+      "slug": "cars",
+      "title": "Cars",
+      "cover": "https://image.tmdb.org/t/p/w500/u4G8EkiIBZYx0mEg0xD6ws4JMvW.jpg",
+      "description": "Lightning McQueen, a hotshot rookie race car driven to succeed, discovers that life is about the journey, not the finish line, when he finds himself unexpectedly detoured in the sleepy Route 66 town of Radiator Springs.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/cars_movie_yxqfex.mp4",
+      "imageUrl": "/cars-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xdef456"
+    },
+    {
+      "id": 18,
+      "slug": "tangled",
+      "title": "Tangled",
+      "cover": "https://image.tmdb.org/t/p/w500/ym7Kst6a4uodryxqbGOxmewF235.jpg",
+      "description": "When the kingdom's most wanted—and most charming—bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/tangled_movie_yxqfex.mp4",
+      "imageUrl": "/tangled-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xghi789"
+    },
+    {
+      "id": 19,
+      "slug": "wreck-it-ralph",
+      "title": "Wreck-It Ralph",
+      "cover": "https://image.tmdb.org/t/p/w500/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg",
+      "description": "Wreck-It Ralph is the 9-foot-tall, 643-pound villain of an arcade video game named Fix-It Felix Jr., in which the game's titular hero fixes buildings that Ralph destroys.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/wreck-it-ralph_movie_yxqfex.mp4",
+      "imageUrl": "/wreck-it-ralph-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xjkl012"
+    },
+    {
+      "id": 20,
+      "slug": "brave",
+      "title": "Brave",
+      "cover": "https://image.tmdb.org/t/p/w500/1XAuDtMWpL0sYSFK5Pq0pp7MkVF.jpg",
+      "description": "Brave is set in the mystical Scottish Highlands, where Mérida is the princess of a kingdom she has no desire to rule.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/brave_movie_yxqfex.mp4",
+      "imageUrl": "/brave-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xmno345"
+    },
+    {
+      "id": 21,
+      "slug": "the-lion-king",
+      "title": "The Lion King",
+      "cover": "https://image.tmdb.org/t/p/w500/bKPtXn9n4M4s8vvZrbw40mYsefB.jpg",
+      "description": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/lion-king_movie_yxqfex.mp4",
+      "imageUrl": "/lion-king-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xpqr678"
+    },
+    {
+      "id": 22,
+      "slug": "beauty-and-the-beast",
+      "title": "Beauty and the Beast",
+      "cover": "https://image.tmdb.org/t/p/w500/hKegSKIDep2ewJWPUQD7u0KqFIp.jpg",
+      "description": "Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/beauty-beast_movie_yxqfex.mp4",
+      "imageUrl": "/beauty-beast-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xstu901"
+    },
+    {
+      "id": 23,
+      "slug": "aladdin",
+      "title": "Aladdin",
+      "cover": "https://image.tmdb.org/t/p/w500/3fM8Sm02UVAZ5QjH2VmFu2K5PSl.jpg",
+      "description": "Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/aladdin_movie_yxqfex.mp4",
+      "imageUrl": "/aladdin-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xvwx234"
+    },
+    {
+      "id": 24,
+      "slug": "the-little-mermaid",
+      "title": "The Little Mermaid",
+      "cover": "https://image.tmdb.org/t/p/w500/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+      "description": "This colorful adventure tells the story of an impetuous mermaid princess named Ariel who falls in love with the very human Prince Eric and puts everything on the line for the chance to be with him.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/little-mermaid_movie_yxqfex.mp4",
+      "imageUrl": "/little-mermaid-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xyza567"
+    },
+    {
+      "id": 25,
+      "slug": "mulan",
+      "title": "Mulan",
+      "cover": "https://image.tmdb.org/t/p/w500/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg",
+      "description": "To save her father from execution, Mulan, a young Chinese maiden, disguises herself as a man and goes in his place to the Imperial Army.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/mulan_movie_yxqfex.mp4",
+      "imageUrl": "/mulan-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xbcd890"
+    },
+    {
+      "id": 26,
+      "slug": "hercules",
+      "title": "Hercules",
+      "cover": "https://image.tmdb.org/t/p/w500/8a7aN9QHVZu3qkz0d1yP54tZerA.jpg",
+      "description": "Bestowed with superhuman strength, a young mortal named Hercules sets out to prove himself a hero in the eyes of his father, the great god Zeus.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/hercules_movie_yxqfex.mp4",
+      "imageUrl": "/hercules-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xefg123"
+    },
+    {
+      "id": 27,
+      "slug": "tarzan",
+      "title": "Tarzan",
+      "cover": "https://image.tmdb.org/t/p/w500/1bmvZylMGbG5K1N8aRqIILvV1rY.jpg",
+      "description": "Tarzan was a small orphan who was raised by an ape named Kala since he was a baby. He believed that this was his family, but on an expedition Jane Porter accompanies her father and discovers the secrets of the jungle, including a \"wild man\" who seems to be interested in her.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/tarzan_movie_yxqfex.mp4",
+      "imageUrl": "/tarzan-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xhij456"
+    },
+    {
+      "id": 28,
+      "slug": "the-princess-and-the-frog",
+      "title": "The Princess and the Frog",
+      "cover": "https://image.tmdb.org/t/p/w500/yprv1tkXdqsT4Fw5hx5xWYgamgB.jpg",
+      "description": "A waitress, desperate to fulfill her dreams as a restaurant owner, is set on a journey to turn a frog prince back into a young prince, but she has to face the same destiny.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/princess-frog_movie_yxqfex.mp4",
+      "imageUrl": "/princess-frog-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xklm789"
+    },
+    {
+      "id": 29,
+      "slug": "bolt",
+      "title": "Bolt",
+      "cover": "https://image.tmdb.org/t/p/w500/qCAdpk19QYzKvVCsYDFXh2TGnZt.jpg",
+      "description": "Bolt is the star of the biggest show in Hollywood: The Bolt Chronicles, about a super-powered dog who can 'zap' villains with special powers.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/bolt_movie_yxqfex.mp4",
+      "imageUrl": "/bolt-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xnop012"
+    },
+    {
+      "id": 30,
+      "slug": "madagascar",
+      "title": "Madagascar",
+      "cover": "https://image.tmdb.org/t/p/w500/2YiESGB68Gz5I1cBk8w8tT4K1uR.jpg",
+      "description": "Alex the lion is the king of the urban jungle, the main attraction at New York's Central Park Zoo. He and his best friends—Marty the zebra, Melman the giraffe and Gloria the hippo—have spent their whole lives in blissful captivity.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/madagascar_movie_yxqfex.mp4",
+      "imageUrl": "/madagascar-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xpqr345"
+    },
+    {
+      "id": 31,
+      "slug": "ice-age",
+      "title": "Ice Age",
+      "cover": "https://image.tmdb.org/t/p/w500/gL4sB7q7q7q7q7q7q.jpg",
+      "description": "With the impending ice age almost upon them, a mismatched trio of prehistoric critters – Manny the woolly mammoth, Diego the saber-toothed tiger and Sid the giant sloth – find an orphaned infant and decide to return it to its human parents.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/ice-age_movie_yxqfex.mp4",
+      "imageUrl": "/ice-age-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xstu678"
+    },
+    {
+      "id": 32,
+      "slug": "despicable-me",
+      "title": "Despicable Me",
+      "cover": "https://image.tmdb.org/t/p/w500/4zHJhBSY4kNZXfhTlmy2TzXD51M.jpg",
+      "description": "Villainous Gru lives up to his reputation as a despicable, soft-hearted villain when he agrees to plan the biggest heist the world has ever seen.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/despicable-me_movie_yxqfex.mp4",
+      "imageUrl": "/despicable-me-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xvwx901"
+    },
+    {
+      "id": 33,
+      "slug": "minions",
+      "title": "Minions",
+      "cover": "https://image.tmdb.org/t/p/w500/q0R4crx2SehcEEQEkYObktdeFy.jpg",
+      "description": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/minions_movie_yxqfex.mp4",
+      "imageUrl": "/minions-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xyza234"
+    },
+    {
+      "id": 34,
+      "slug": "hotel-transylvania",
+      "title": "Hotel Transylvania",
+      "cover": "https://image.tmdb.org/t/p/w500/1g71Kfi9Z9e0wR7QlhAcyaz4c3U.jpg",
+      "description": "Welcome to Hotel Transylvania, where monsters and their families can live it up, free to be the monsters they are, without humans to ruin their fun.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/hotel-transylvania_movie_yxqfex.mp4",
+      "imageUrl": "/hotel-transylvania-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xbcd567"
+    },
+    {
+      "id": 35,
+      "slug": "trolls",
+      "title": "Trolls",
+      "cover": "https://image.tmdb.org/t/p/w500/zKu5MNy9QW1a5ZHgv7k7sjyQwOk.jpg",
+      "description": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and overly-cautious, curmudgeonly outcast Branch set off on a journey to rescue her friends.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/trolls_movie_yxqfex.mp4",
+      "imageUrl": "/trolls-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xefg890"
+    },
+    {
+      "id": 36,
+      "slug": "sing",
+      "title": "Sing",
+      "cover": "https://image.tmdb.org/t/p/w500/b7uB7Mu1H6KQvRLM7k5gV8tJq5r.jpg",
+      "description": "A koala named Buster recruits his cast of animal characters to save his theater.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/sing_movie_yxqfex.mp4",
+      "imageUrl": "/sing-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xhij123"
+    },
+    {
+      "id": 37,
+      "slug": "the-boss-baby",
+      "title": "The Boss Baby",
+      "cover": "https://image.tmdb.org/t/p/w500/5sSJYq2Weu5X6lx1f8Y4Wc5y3qF.jpg",
+      "description": "A story about how a new baby's arrival impacts a family, told from the baby's point of view.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/boss-baby_movie_yxqfex.mp4",
+      "imageUrl": "/boss-baby-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xklm456"
+    },
+    {
+      "id": 38,
+      "slug": "captain-underpants",
+      "title": "Captain Underpants: The First Epic Movie",
+      "cover": "https://image.tmdb.org/t/p/w500/AjHZIkzhLrGcV2zJ36C7WMQf3Ae.jpg",
+      "description": "Two mischievous kids hypnotize their mean elementary school principal and turn him into their comic book creation, the kind-hearted and elastic-banded Captain Underpants.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/captain-underpants_movie_yxqfex.mp4",
+      "imageUrl": "/captain-underpants-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xnop789"
+    },
+    {
+      "id": 39,
+      "slug": "the-lego-movie",
+      "title": "The Lego Movie",
+      "cover": "https://image.tmdb.org/t/p/w500/6E0LprTLWBJqKf0n4MJZwW5dEBF.jpg",
+      "description": "An ordinary Lego mini-figure, mistakenly thought to be the extraordinary MasterBuilder, is recruited to join a quest to stop an evil Lego tyrant from gluing the universe together.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/lego-movie_yxqfex.mp4",
+      "imageUrl": "/lego-movie-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xpqr012"
+    },
+    {
+      "id": 40,
+      "slug": "spider-man-into-the-spider-verse",
+      "title": "Spider-Man: Into the Spider-Verse",
+      "cover": "https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+      "description": "Struggling to find his place in the world after the death of his father, Brooklyn teenager Miles Morales is bitten by a radioactive spider and becomes Spider-Man.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/spider-verse_movie_yxqfex.mp4",
+      "imageUrl": "/spider-verse-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xstu345"
+    },
+    {
+      "id": 41,
+      "slug": "klaus",
+      "title": "Klaus",
+      "cover": "https://image.tmdb.org/t/p/w500/q125RHUDgR6gjXZBjKtfC7TY68G.jpg",
+      "description": "When Jesper distinguishes himself as the Postal Service's most useless mailman, he is transferred to Smeerensburg, a small village in the frozen north that suffers from endless postal delays and a senseless feud between two rival families.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/klaus_movie_yxqfex.mp4",
+      "imageUrl": "/klaus-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xvwx678"
+    },
+    {
+      "id": 42,
+      "slug": "soul",
+      "title": "Soul",
+      "cover": "https://image.tmdb.org/t/p/w500/hm58Jw4Lw8OIeECIq5qyPYhAeRJ.jpg",
+      "description": "Joe Gardner is a middle school band teacher who dreams of playing jazz professionally. One day, he finally gets a chance to audition for his dream job, but before he can make it, he falls into a manhole and ends up in a coma.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/soul_movie_yxqfex.mp4",
+      "imageUrl": "/soul-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xyza901"
+    },
+    {
+      "id": 43,
+      "slug": "luca",
+      "title": "Luca",
+      "cover": "https://image.tmdb.org/t/p/w500/jTswp6KyDYKtvC52GbHagrZbGvD.jpg",
+      "description": "In a beautiful seaside town on the Italian Riviera, two young boys experience a summer they will never forget as they test the boundaries between bravery and fear.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/luca_movie_yxqfex.mp4",
+      "imageUrl": "/luca-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xbcd234"
+    },
+    {
+      "id": 44,
+      "slug": "encanto",
+      "title": "Encanto",
+      "cover": "https://image.tmdb.org/t/p/w500/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
+      "description": "The tale of an extraordinary family, the Madrigals, who live hidden in the mountains of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed place called an Encanto.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/encanto_movie_yxqfex.mp4",
+      "imageUrl": "/encanto-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xefg567"
+    },
+    {
+      "id": 45,
+      "slug": "turning-red",
+      "title": "Turning Red",
+      "cover": "https://image.tmdb.org/t/p/w500/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg",
+      "description": "Thirteen-year-old Mei is a tiger-obsessed honors student who is also a huge fan of a boy band. When she unexpectedly turns into a giant red panda at the worst possible time, she must learn to be herself.",
+      "cloudinaryUrl": "https://res.cloudinary.com/dbc3vqwhm/video/upload/v1763398003/turning-red_movie_yxqfex.mp4",
+      "imageUrl": "/turning-red-poster.jpg",
+      "dailymotionUrl": "https://www.dailymotion.com/video/xhij890"
+    }
+  ]
+}

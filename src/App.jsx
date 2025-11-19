@@ -7,13 +7,19 @@ import Header from './components/Header';
 import SeriesCard from './components/SeriesCard';
 import EpisodeCard from './components/EpisodeCard';
 import EpisodePlayer from './components/EpisodePlayer';
-import { useBen10Data, useComingSoonData } from './hooks/useBen10Data';
+import { useBen10Data, useComingSoonData  , useMovie1Data} from './hooks/useBen10Data';
+import NetflixSlider from './components/NetflixSlider';
+import MoviePlayer12 from './components/Movieplayer12';
+import Footer from './components/Footer';
+
+
 
 const queryClient = new QueryClient();
 
 const appStyles = {
   minHeight: '100vh',
-  backgroundColor: '#0f172a',
+  //backgroundColor: '#0f172a',
+  backgroundColor: '#000000',
   color: 'white',
   fontFamily: 'Arial, sans-serif'
 };
@@ -48,7 +54,7 @@ const gridStyles = {
 const bannerSectionStyles = {
   marginTop: '60px',
   padding: '30px 20px',
-  backgroundColor: '#1e293b',
+  backgroundColor: '#000000',
   borderTop: '2px solid #334155'
 };
 
@@ -72,7 +78,8 @@ const bannerGridStyles = {
 };
 
 const adBannerStyles = {
-  backgroundColor: '#334155',
+  //backgroundColor: '#334155',
+  backgroundColor: '#000000',
   borderRadius: '10px',
   padding: '20px',
   textAlign: 'center',
@@ -134,7 +141,7 @@ function NewSeriesBanner() {
           <div 
             key={series.id} 
             style={{
-              backgroundColor: '#334155',
+              backgroundColor: '#080808',
               borderRadius: '10px',
               padding: '15px',
               textAlign: 'center',
@@ -221,7 +228,9 @@ function AdBanner() {
 }
 
 function Home() {
-  const { data: ben10Data } = useBen10Data();
+  const { data: ben10Data  } = useBen10Data();
+  //const { data: comingSoonData } = useBen10Data();
+    const { data: movieData } = useMovie1Data();
   const { searchTerm } = useSearch();
   
   if (!ben10Data) return <div style={loadingStyles}>Loading...</div>;
@@ -277,7 +286,7 @@ function Home() {
   return (
     <>
       <div style={mainContentStyles}>
-        <h2 style={{ 
+        {/* <h2 style={{ 
           marginBottom: '20px', 
           textAlign: 'center',
           fontSize: '2rem',
@@ -286,8 +295,48 @@ function Home() {
           WebkitTextFillColor: 'transparent',
           backgroundClip: 'text'
         }}>
-          anime world watch to free
-        </h2>
+           watch to free
+        </h2> */}
+         {/* Netflix Slider Sections with Movies */}
+        <NetflixSlider 
+          title="Featured Movies"
+          movies={movieData.movies.slice(0, 45)}
+        />
+
+         {/* <NetflixSlider 
+          title="Popular Movies"
+          movies={movieData.movies.slice(12, 45)}
+        /> */}
+        
+        {/* <NetflixSlider 
+          title="Popular Movies"
+          movies={movieData.movies.filter(m => 
+            ['incredibles', 'finding-nemo', 'toy-story'].includes(m.slug)
+          )}
+        /> */}
+
+        {/* <NetflixSlider 
+          title="New Arrivals"
+          movies={movieData.movies.filter(m => 
+            ['coco', 'moana', 'big-hero-6'].includes(m.slug)
+          )}
+        />
+
+        <NetflixSlider 
+          title="Classic Favorites"
+          movies={movieData.movies.filter(m => 
+            ['shrek', 'kung-fu-panda', 'ratatouille'].includes(m.slug)
+          )}
+        /> */}
+        
+        {/* Original grid layout for all series */}
+        <h3 style={{ 
+          margin: '40px 0 20px 0',
+          fontSize: '1.5rem',
+          color: 'white'
+        }}>
+          All Series
+        </h3>
         <div style={gridStyles}>
           {ben10Data.series.map((series) => (
             <SeriesCard key={series.id} series={series} />
@@ -300,6 +349,92 @@ function Home() {
     </>
   );
 }
+
+
+
+// Add a MoviePlayer component (similar to EpisodePlayer but for movies)
+function MoviePlayer() {
+  const { movieSlug } = useParams();
+  const { data: movieData } = useMovie1Data();
+
+  if (!movieData) return <div style={loadingStyles}>Loading movie...</div>;
+
+  const movie = movieData.movies.find(m => m.slug === movieSlug);
+  
+  if (!movie) return (
+    <div style={noResultsStyles}>
+      <h3>Movie not found</h3>
+      <Link to="/" style={{ color: '#00d4ff', textDecoration: 'none' }}>
+        ← Back to Home
+      </Link>
+    </div>
+  );
+
+  return (
+    <div style={mainContentStyles}>
+      <div style={{ marginBottom: '20px' }}>
+        <Link to="/" style={{ color: '#00d4ff', textDecoration: 'none', marginBottom: '20px', display: 'inline-block' }}>
+          ← Back to Home
+        </Link>
+        <h1 style={{ margin: '10px 0', color: 'white' }}>{movie.title}</h1>
+        <p style={{ color: '#94a3b8', marginBottom: '20px' }}>{movie.description}</p>
+      </div>
+      
+      <div style={{
+        width: '100%',
+        maxWidth: '800px',
+        margin: '0 auto',
+        backgroundColor: '#000',
+        borderRadius: '8px',
+        overflow: 'hidden'
+      }}>
+        {/* You can implement your video player here */}
+        <div style={{
+          width: '100%',
+          height: '0',
+          paddingBottom: '56.25%', // 16:9 aspect ratio
+          position: 'relative',
+          backgroundColor: '#000'
+        }}>
+          <div style={{
+            position: 'absolute',
+            top: '0',
+            left: '0',
+            width: '100%',
+            height: '100%',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            color: 'white',
+            background: 'linear-gradient(135deg, #1e293b, #0f172a)'
+          }}>
+            <div style={{ textAlign: 'center' }}>
+              <div style={{
+                width: '80px',
+                height: '80px',
+                backgroundColor: 'rgba(0, 212, 255, 0.9)',
+                borderRadius: '50%',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                margin: '0 auto 20px'
+              }}>
+                <svg width="30" height="30" viewBox="0 0 24 24" fill="white">
+                  <path d="M8 5v14l11-7z"/>
+                </svg>
+              </div>
+              <p>Movie Player - {movie.title}</p>
+              <p style={{ fontSize: '14px', color: '#94a3b8', marginTop: '10px' }}>
+                Cloudinary URL: {movie.cloudinaryUrl}
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 
 function SeriesPage() {
   const { seriesSlug } = useParams();
@@ -513,12 +648,16 @@ function AppContent() {
       <SearchProvider>
         <div style={appStyles}>
           <Header />
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/:seriesSlug" element={<SeriesPage />} />
-            <Route path="/:seriesSlug/:seasonNumber" element={<SeasonPage />} />
-            <Route path="/:seriesSlug/:seasonNumber/:episodeNumber" element={<EpisodePlayer />} />
-          </Routes>
+          <main style={{ minHeight: 'calc(100vh - 200px)' }}>
+            <Routes>
+              <Route path="/" element={<Home />} />
+              <Route path="/:seriesSlug" element={<SeriesPage />} />
+              <Route path="/:seriesSlug/:seasonNumber" element={<SeasonPage />} />
+              <Route path="/:seriesSlug/:seasonNumber/:episodeNumber" element={<EpisodePlayer />} />
+              <Route path="/movie/:movieSlug" element={<MoviePlayer12 />} />
+            </Routes>
+          </main>
+          <Footer />
         </div>
       </SearchProvider>
     </Router>

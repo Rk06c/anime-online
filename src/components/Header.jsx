@@ -24,7 +24,8 @@ const Header = () => {
   };
 
   const headerStyles = {
-    backgroundColor: '#1e293b',
+    //backgroundColor: '#1e293b',
+    backgroundColor: '#000000',
     padding: isMobile ? '15px' : '20px',
     display: 'flex',
     justifyContent: 'space-between',
@@ -53,7 +54,8 @@ const Header = () => {
     padding: '10px 40px 10px 15px',
     borderRadius: '25px',
     border: '2px solid #334155',
-    backgroundColor: '#0f172a',
+    //backgroundColor: '#0f172a',
+    backgroundColor: '#000000',
     color: 'white',
     fontSize: '1rem',
     width: '100%',
@@ -80,7 +82,7 @@ const Header = () => {
 
   return (
     <header style={headerStyles}>
-      <h1 style={titleStyles}>Anime Series</h1>
+      <h1 style={titleStyles}>WISHLIST❤️SERIES</h1>
       <div style={searchContainerStyles}>
         <input
           type="text"
